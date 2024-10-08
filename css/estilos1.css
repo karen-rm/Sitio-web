@@ -1,0 +1,75 @@
+.suscripciones{
+
+}
+
+.redondear{
+ border-radius: 90%;   
+}
+
+.mueve{
+  margin-left: 12em;
+}
+
+.tabla-suscripcion{
+    max-width: 350px;
+    text-align: left;
+
+    border: 1px solid #CCC;
+    margin: 20px auto;
+    border-radius:15px;
+    background-color: white;
+    box-shadow: 5px 5px 10px #CCC;
+    display: block;
+    padding: 0 0 10px 0;
+    
+}
+
+.titulo{
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.titulo1{
+    font-size: 19px;
+}
+
+.alinear{
+    text-align: center;
+}
+
+.tabla-suscripcion ul{
+    list-style-type:'+  ';
+}
+
+.tabla-suscripcion ul li{
+    margin-bottom: 15px;
+}
+
+.texto-pequeño{
+    font-size: 10px;
+}
+
+.alerta{
+    font-size: 12.5px;
+    text-align: right;
+}
+
+.texto-encabezados{
+    color: black;
+   
+}
+
+.texto-encabezados:hover{
+    color: white;
+}
+
+.fondo{
+    color: white;
+    font-weight: bold;
+}
+
+.fondo1{
+    background: #D52A2A;
+    color: white;
+
+}

@@ -1,0 +1,172 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: #ce3737;
+    text-align: center;
+}
+
+.principal{
+    background: #FFF;
+    border-radius: 10px;
+    display: block;
+    margin: 10px auto;
+    text-align: center;
+    width: auto;
+}
+
+.cabecera{
+    height: 100px;
+    background-image: url("https://i.pinimg.com/564x/8a/79/ed/8a79edcdf44cc7e1bb58dba38a697f00.jpg");
+    display: flex;
+    justify-content: center;
+    border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+.cabecera h1{
+    font: bold 35px 'Kanit';
+    background-color: #d32828;
+    color: white;
+    margin: auto;
+    border-radius: 15px;
+    padding: 0.5%;
+    background: rgba(182, 26, 26, 0.5);
+    border: #d32828 3px solid;
+}
+
+.barra{
+    border-top: 5px double #ffffff;
+    border-bottom: 5px double #ffffff;
+}
+
+.barra a{
+    color: #e7e5e5;
+    font-weight: bold;
+}
+
+
+.menu{
+    color: #ffffff;
+    border: solid 3px #ffffff;
+}
+  
+.custom-toggler .navbar-toggler-icon{
+    background-image: url(
+"data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 0.8)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.bi{
+    font-size: 2em;
+}
+
+ul hr{
+    color: white;
+    border: 1px solid white;
+}
+
+.pie{
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background: #D41717;
+    color: #FFFFFF;
+    text-align: center;
+    padding-bottom: 10px;
+    margin: auto;
+}
+
+.caja{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background: #F15C5C;
+    border-radius: 100%;
+    text-align: center;
+}
+
+.caja i{
+    margin-left: 1px;
+    margin-top: 2px;
+}
+
+.caja i:hover{
+    color: #BA0404;
+}
+
+.apartados{
+    font: bold 13px 'Kanit';
+    color: hsl(0, 100%, 75%);
+}
+
+.alinea-der {
+    text-align: left;
+}
+
+
+.leyenda-pt1{
+    font: 12px 'Kanit';
+    margin-top: 80px;
+    text-align: left;
+}
+
+.leyenda-pt2{
+    font: 12px 'Kanit';
+    text-align: right;
+    margin-top: 80px;
+}
+
+.pie a{
+    text-decoration: none;
+    color: white;
+}
+
+.pie a:hover{
+    color: #B49F9F;
+    text-decoration: underline;
+}
+
+.fuente{
+    font-family: 'Kanit';
+}
+
+.promo{
+    background-image: url("https://www.togetherprice.com/es/static/3ef017bc7b1ddc835cf993ef0bf92c22/1e8d8/co-nam-predviedol-prvy-den-nin-image-584-1024x540.jpg");
+    height: 400px;
+}
+
+.cuadro{
+    background: white;
+    opacity: .7;
+    border-radius: 5px;
+    margin: 50px 5px;
+    padding: 20px;
+    font-family:'Poppins', sans-serif;
+}
+
+.fuente1{
+    font-family:'Poppins';
+}
+
+.im-juegos{
+    width: 90%;
+    /*height: 90%;*/
+    border-radius: 5px;
+}
+
+.pequeño{
+    font-size: 1.5em;
+}
+
+.carousel-item img{
+    filter: brightness(30%);
+    width: 100%;
+    height: 10cm;
+    top: 0;
+    left: 0;    
+}
+
+.fuente2{
+    color: red;
+}

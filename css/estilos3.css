@@ -1,0 +1,92 @@
+.cabeza{ 
+    margin: auto;
+    color: white;
+    padding: 15px;
+    font-family: 'Poppins';
+    background: #ce3737;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.cabeza h2{
+    margin-top: 5px;
+    text-transform: uppercase;
+}
+
+.cabeza p{
+    color: gainsboro;
+    font-size: 16px;
+    font-style: italic;
+    margin: 20px 5px;
+}
+
+.carousel-item{
+    margin-left: 10%;
+    height: 8cm;
+}
+
+.carousel-item img{
+    width: 80%;
+    height: 8cm;
+    filter: brightness(80%);
+    position: absolute;
+    border-left: black 2px solid;
+    border-right: black 2px solid;
+    top: 0;
+    left: 0;
+}
+
+.carousel{
+    background: linear-gradient(90deg, #ce3737 50%, #627fe0 50%);
+    border-radius: 15px;
+    border: black 4px solid;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.cont{
+    font-family: 'Poppins';
+}
+
+.categ button{
+    font-size: 18px;
+}
+
+.ventana{
+    text-align: left; 
+}
+
+.ventana h3{
+    text-align: center;
+}
+
+.ventana h5{
+    font-style: italic;
+    font-weight: bold;
+    padding-top: 20px; 
+}
+
+.ventana img{
+    width: 75%;
+    height: 5cm;
+    border-radius: 25px;
+}
+
+.tit{
+    border-bottom: #BA0404 2px solid;
+}
+
+.jg{
+    border-bottom: #BA0404 2px solid;
+}
+
+h5 span{
+    color: #BA0404;
+    padding: 5px;
+    border-radius: 20px;
+    border: #BA0404 2px solid;
+}
+
+h5 span:hover{
+    color: white;
+    background: #BA0404;
+}
+
